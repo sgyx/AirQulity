@@ -1,0 +1,11 @@
+﻿  AirFQualityDlg.cpp
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(247): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(275): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(232): warning C4101: “fNum2”: 未引用的局部变量
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(231): warning C4101: “nNum1”: 未引用的局部变量
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(214): warning C4101: “cAllchar”: 未引用的局部变量
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(229): warning C4101: “count”: 未引用的局部变量
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(227): warning C4101: “use”: 未引用的局部变量
+e:\c\airfquality\airfquality\airfqualitydlg.cpp(371): warning C4715: “CAirFQualityDlg::SelFilePath”: 不是所有的控件路径都返回值
+  AirFQuality.vcxproj -> E:\c\AirFQuality\Debug\AirFQuality.exe
